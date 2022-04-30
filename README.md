@@ -4,9 +4,9 @@ this insight show distribution of features count of videos ,views,likes and comm
 and also there is comparing between channels which has trending videos 
 all data collected using youtube api for videos and channels along one month 
 
-#Demo
+# Demo
 
-#User Guide 
+# User Guide 
 inorder to run the website:
 1- install required libraraies
 2- run main.py
